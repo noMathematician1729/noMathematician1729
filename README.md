@@ -14,8 +14,8 @@
 ## 🛠️ Tools I've worked with
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,javascript,typescript,solidity,pytorch,opencv,langchain,ollama,react,nodejs,expressjs,fastapi,postgresql,mongodb,sqlite,ros,matlab,docker,git,linux,postman,vscode,html,css&amp;perline=13&amp;theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,javascript,typescript,solidity,pytorch,opencv,langchain,ollama,react,nodejs,expressjs,fastapi,postgresql,mongodb,sqlite,ros,matlab,docker,git,linux,postman,vscode,html,css&amp;perline=13&amp;theme=light">
+    <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python%2Ccpp%2Cjavascript%2Ctypescript%2Csolidity%2Cpytorch%2Copencv%2Clangchain%2Collama%2Creact%2Cnodejs%2Cexpressjs%2Cfastapi%2Cpostgresql%2Cmongodb%2Csqlite%2Cros%2Cmatlab%2Cdocker%2Cgit%2Clinux%2Cpostman%2Cvscode%2Chtml%2Ccss&amp;perline=13&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://go-skill-icons.vercel.app/api/icons?i=python%2Ccpp%2Cjavascript%2Ctypescript%2Csolidity%2Cpytorch%2Copencv%2Clangchain%2Collama%2Creact%2Cnodejs%2Cexpressjs%2Cfastapi%2Cpostgresql%2Cmongodb%2Csqlite%2Cros%2Cmatlab%2Cdocker%2Cgit%2Clinux%2Cpostman%2Cvscode%2Chtml%2Ccss&amp;perline=13&amp;theme=light">
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp,javascript,typescript,solidity,pytorch,opencv,langchain,ollama,react,nodejs,expressjs,fastapi,postgresql,mongodb,sqlite,ros,matlab,docker,git,linux,postman,vscode,html,css&amp;perline=13&amp;theme=dark" alt="Python, C++, JavaScript, TypeScript, Solidity, PyTorch, OpenCV, LangChain, Ollama, React, Node.js, Express, FastAPI, PostgreSQL, MongoDB, SQLite, ROS, MATLAB, Docker, Git, Linux, Postman, VS Code, HTML, and CSS">
   </picture>
 
